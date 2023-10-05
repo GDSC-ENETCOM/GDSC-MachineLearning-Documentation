@@ -40,7 +40,7 @@ Superficially, we can draw some motivational similarities between the learning p
 ## A human brain :
 The human brain perceives things from the real world, processes the perceived information, makes rational decisions, and performs certain actions based on circumstances. This is what we called behaving intelligently. When we program a facsimile of the intelligent behavioral process to a machine, it is called artificial intelligence (AI).
 # A diagram showing the relationships between AI, ML, deep learning, and data science: 
-![AI-vs-ML-vs-Deep-Learning](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/6d90fcc9-171a-435d-b290-6d5e2093550d)
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/97cd23cd-6619-42d8-ad00-b1dc99311863)
 # Machine learning application:
 You can use machine learning in many ways:
 To predict the likelihood of disease from a patient's medical history or reports.
@@ -56,7 +56,7 @@ Different Types Of Data Types
 The Data Type Is Broadly Classified Into :
  1-Quantitative
  2-Qualitative  
- ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/fd7064e5-5424-4c01-8f5b-640f3e7c8aa5)
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/0997b0ce-5cc0-492e-8bfc-b5b979f7476a)
 # 1. Quantitative Data Type: –
 This Type Of Data Type Consists Of Numerical Values. Anything Which Is Measured By Numbers.
 E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
@@ -82,8 +82,7 @@ E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
      This Type Of Data Does Not Have The Proper Format And Therefore Known As Unstructured Data.This Comprises Textual 
       Data, Sounds, Images, Videos, Etc.
 # (structured vs unstructured ) :
-![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/1823a047-15c2-4293-aa4c-eab3eb87b357)
-
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/21b37ae5-86cd-42cf-a7d4-63f89112febf)
 # Machine learning types : 
 These ML algorithms help to solve different business problems like Regression, Classification, Forecasting, Clustering, and Associations, etc.
 Based on the methods and way of learning, machine learning is divided into mainly four types, which are:
@@ -91,9 +90,9 @@ Supervised Machine Learning
 Unsupervised Machine Learning
 Semi-Supervised Machine Learning
 Reinforcement Learning
-![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/e0b79b4f-fc8f-4b85-9e07-0dc67572079c)
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/f625c2df-5e4f-40f5-ae78-22173bce7b7e)
 # Machine learning lifecycle :
-![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/244df89a-bd19-4760-98a4-eceab2b6fe03)
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/c8425680-439c-48d2-93cb-ff731c7cb775)
 # Machine learning vs traditional programming :
 Traditional programming is a manual process—meaning a person (programmer) creates the program. But without anyone programming the logic, one has to manually formulate or code rules. In machine learning, on the other hand, the algorithm automatically formulates the rules from the data.
 ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/16e968da-79ef-4949-802a-e3923f20e551)
