@@ -33,3 +33,4 @@ Encourage questions and discussions for further clarification.
 Provide resources and references for additional learning.
 ## What is machine learning? : 
 he term 'machine learning' is one of the most popular and frequently used terms of today. There is a nontrivial possibility that you have heard this term at least once if you have some sort of familiarity with technology, no matter what domain you work in. The mechanics of machine learning, however, are a mystery to most people. For a machine learning beginner, the subject can sometimes feel overwhelming. Therefore, it is important to understand what machine learning actually is, and to learn about it step by step, through practical examples. 
+https://github.com/wissemkarous/ML-Doc-GDSC/blob/main/hype.png
