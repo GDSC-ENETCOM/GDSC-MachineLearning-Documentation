@@ -75,14 +75,14 @@ E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
   As The Categorical Data Type.
   This Can Be Divided Into:-
   #     A. Structured Data:
-     This Type Of Data Is Either Number Or Words. This Can Take Numerical Values But Mathematical Operations Cannot Be 
+    This Type Of Data Is Either Number Or Words. This Can Take Numerical Values But Mathematical Operations Cannot Be 
      Performed On It. This Type Of Data Is Expressed In Tabular Format.
      E.G.)  Sunny=1, Cloudy=2, Windy=3 Or Binary Form Data Like 0 Or1, Good Or Bad, Etc.
-    ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/ec933970-9ab8-44f9-bc81-c232a62a406e)
  #   B. Unstructured Data:
      This Type Of Data Does Not Have The Proper Format And Therefore Known As Unstructured Data.This Comprises Textual 
       Data, Sounds, Images, Videos, Etc.
-![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/c2fd0ca2-ff3a-4732-8c49-8702c278b298)
+# (structured vs unstructured ) :
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/1823a047-15c2-4293-aa4c-eab3eb87b357)
 
 # Machine learning types : 
 These ML algorithms help to solve different business problems like Regression, Classification, Forecasting, Clustering, and Associations, etc.
