@@ -95,6 +95,6 @@ Reinforcement Learning
 ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/c8425680-439c-48d2-93cb-ff731c7cb775)
 # Machine learning vs traditional programming :
 Traditional programming is a manual process—meaning a person (programmer) creates the program. But without anyone programming the logic, one has to manually formulate or code rules. In machine learning, on the other hand, the algorithm automatically formulates the rules from the data.
-![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/16e968da-79ef-4949-802a-e3923f20e551)
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/b165d768-8839-4b76-b7fc-537bef7ef424)
  # conclusion :
  By the end of this session, our GDSC members should have a solid understanding of the fundamental concepts of machine learning, its various types, and its practical applications. This knowledge will lay the groundwork for more in-depth exploration in subsequent sessions. We're excited to continue this learning journey with you in our upcoming sessions. See you next time <3
