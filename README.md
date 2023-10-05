@@ -82,7 +82,8 @@ E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
  #   B. Unstructured Data:
      This Type Of Data Does Not Have The Proper Format And Therefore Known As Unstructured Data.This Comprises Textual 
       Data, Sounds, Images, Videos, Etc.
-     ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/c2fd0ca2-ff3a-4732-8c49-8702c278b298)](https://github.com/wissemkarous/ML-Doc-GDSC/issues/6#issue-1927661506)
+![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/c2fd0ca2-ff3a-4732-8c49-8702c278b298)
+
 # Machine learning types : 
 These ML algorithms help to solve different business problems like Regression, Classification, Forecasting, Clustering, and Associations, etc.
 Based on the methods and way of learning, machine learning is divided into mainly four types, which are:
