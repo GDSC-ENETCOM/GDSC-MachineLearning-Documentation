@@ -61,11 +61,11 @@ The Data Type Is Broadly Classified Into :
 This Type Of Data Type Consists Of Numerical Values. Anything Which Is Measured By Numbers.
 E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
  This Is Again Of Two Types
- ##  A.)  Discrete Data Type: –
+ #  A.)  Discrete Data Type: –
     The Numeric Data Which Have Discrete Values Or Whole Numbers. This Type Of Variable Value If Expressed In Decimal 
     Format Will Have No Proper Meaning. Their Values Can Be Counted.
      E.G.: – No. Of Cars You Have, No. Of Marbles In Containers, Students In A Class, Etc.
- ##  B.) Continuous Data Type: –
+ #  B.) Continuous Data Type: –
        The Numerical Measures Which Can Take The Value Within A Certain Range. This Type Of Variable Value If 
        Expressed In Decimal Format Has True Meaning. Their Values Can Not Be Counted But Measured. The Value Can Be 
         Infinite.
@@ -74,12 +74,12 @@ E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
  These Are The Data Types That Cannot Be Expressed In Numbers. This Describes Categories Or Groups And Is Hence Known 
   As The Categorical Data Type.
   This Can Be Divided Into:-
-  ##     A. Structured Data:
+  #     A. Structured Data:
      This Type Of Data Is Either Number Or Words. This Can Take Numerical Values But Mathematical Operations Cannot Be 
      Performed On It. This Type Of Data Is Expressed In Tabular Format.
      E.G.)  Sunny=1, Cloudy=2, Windy=3 Or Binary Form Data Like 0 Or1, Good Or Bad, Etc.
     ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/ec933970-9ab8-44f9-bc81-c232a62a406e)
- ##    B. Unstructured Data:
+ #   B. Unstructured Data:
      This Type Of Data Does Not Have The Proper Format And Therefore Known As Unstructured Data.This Comprises Textual 
       Data, Sounds, Images, Videos, Etc.
      ![image](https://github.com/wissemkarous/ML-Doc-GDSC/assets/115191512/c2fd0ca2-ff3a-4732-8c49-8702c278b298)](https://github.com/wissemkarous/ML-Doc-GDSC/issues/6#issue-1927661506)
