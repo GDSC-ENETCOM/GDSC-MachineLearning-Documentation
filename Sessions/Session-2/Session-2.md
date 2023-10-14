@@ -26,3 +26,78 @@ Matplotlib is a versatile plotting library in Python. It allows us to create a w
 
 ### 3. Seaborn
 Seaborn is built on top of Matplotlib and provides a high-level interface for creating informative and attractive statistical graphics. It simplifies the creation of complex visualizations and is particularly useful when dealing with statistical data analysis.
+ # General overview : 
+ ### 1 - Data Computation With NumPy
+Creating a NumPy Array
+Selecting Data: Indexing and Slicing An Array
+Performing Mathematical and other Basic Operations
+Performing Basic Statistics
+Manipulating Data
+![image](https://github.com/GDSC-ENETCOM/GDSC-MachineLearning-Documentation/assets/115191512/8ef6b998-7ff2-4bad-85ed-7141163a94e6)
+### 2 - Data Manipulation with Pandas
+Basics of Pandas
+Series and DataFrames
+Data Indexing and Selection
+Dealing with Missing data
+Basic operations and Functions
+Aggregation Methods
+Groupby
+Merging, Joining and Concatenate
+Beyond Dataframes: Working with CSV, and Excel
+Real World Exploratory Data Analysis (EDA)
+![image](https://github.com/GDSC-ENETCOM/GDSC-MachineLearning-Documentation/assets/115191512/2d2eaffc-4095-4be9-9fa3-25ffd8ada244)
+# Data Visualization :
+### Data Visualizations with Matplotlib : 
+To gain more insights or understand the problem you're solving, it is very important to visualize the dataset that you are working with.
+Matplotlib is powerful visualization tool in Python. It can be used to create 2D and 3D figures. Seaborn that we will see later is built on Matplotlib.
+This is what you will learn:
+1. Basics of Matplotlib
+2. Types of Plots
+3. Image Plotting
+4. Further Resources
+### Data Visualization with Seaborn :
+Seaborn is a fantastic and easy to use Python Visualization which is built on Matplotlib.
+For a quick look, check out the gallery page.
+To be covered:
+1. Relational Plots:
+Scatter plots
+Line plots
+2. Distribution Plots:
+Plotting Histograms with displot() and histplot()
+Plotting Bivariate Data with Jointplot()
+Plotting Many Distribution with pairplot()
+Plotting Distributions with rugplot()
+Kernel Density Estimation (KDE) Plot with kdeplot() and displot()
+Cumulative Distributions
+3. Categorical Plots:
+Categorical estimate plots
+Categorical distribution plots
+Categorical scatter plots
+Plotting multiple categorical plots
+4. Regression Plots
+5. Multiplots:
+Facet grids
+Pair grids
+Pair plots
+6. Matrix Plots: Heat and Cluster Maps
+Heat maps
+Cluster maps
+7. Style and Color
+### Pandas for Data Visualization  :
+Pandas that we used for data analysis and manipulation can also be used to visualize data.
+And it is so simple. To step back a bit, Matplotlib is the primary visualization library in Python. Both Seaborn and Pandas visualization are built on top of Matplotlib.
+Contents:
+1. Imports and loading datasets
+2. Basic Plots
+3. More Plots
+A. Bar plots
+B. Histogram
+C. Box plots
+D. Area plots
+E. Kernel Density Estimation (KDE) plots
+F. Scatter plots
+G. Hexagonal plots
+H. Pie plots
+4. Further learnings
+Styles and themes
+Colors
